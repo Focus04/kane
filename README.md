@@ -44,8 +44,8 @@ _If you have made any changes to the code, don't forget to restart the bot by ty
 
 ## Author
 
-1.  **Discord.js Music Bot** © [bringo](https://github.com/iCrawl)
-2.  Authored, maintained by iCrawl. And modified by bringo
+1.  **Discord.js Music Bot** © [bringo](https://github.com/Yassinebringo/kane/)
+2.  Authored, maintained by Bringo and Focus.
 3.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
 > GitHub [bringo](https://github.com/zhycorp)
