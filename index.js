@@ -15,7 +15,10 @@ const queue = new Map();
 
 bot.on("warn", console.warn);
 bot.on("error", console.error);
-bot.on("ready", () => console.log(`[READY] ${bot.user.tag} has been successfully booted up!`));
+bot.on("ready", () => {
+  console.log(`[READY] ${bot.user.tag} has been successfully booted up!`);
+  bot.user.setActivity('!help');
+});
 bot.on("shardDisconnect", (event, id) => console.log(`[SHARD] Shard ${id} disconnected (${event.code}) ${event}, trying to reconnect...`));
 bot.on("shardReconnecting", (id) => console.log(`[SHARD] Shard ${id} reconnecting...`));
 

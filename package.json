@@ -27,14 +27,14 @@
     "node": "12.x"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
-    "discord.js": "^12.5.0",
-    "dotenv": "^8.2.0",
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.2",
+    "dotenv": "^9.0.1",
     "express": "^4.17.1",
     "node-opus": "^0.3.3",
-    "opusscript": "0.0.7",
+    "opusscript": "^0.0.8",
     "simple-youtube-api": "^5.2.1",
-    "ytdl-core": "^4.0.6",
+    "ytdl-core": "^4.7.0",
     "node-fetch": "^2.6.1"
   },
   "optionalDependencies": {
