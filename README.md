@@ -1,6 +1,6 @@
 ## About
 
-> A dedicated music bot example project for MSBTP Development made by bringo
+> A dedicated music bot example project for Kane Development made by bringo and Focus
 
 This open sourced project is a dedicated example tutorial for our community's content, feel free to use and modify as good as you like. Written with [discord.js](https://discord.js.org/#/) and [v12 (stable)](https://discordjs.guide/additional-info/changes-in-v12.html) as the version.
 
@@ -32,7 +32,6 @@ This open sourced project is a dedicated example tutorial for our community's co
 
 _If you have made any changes to the code, don't forget to restart the bot by typing **`refresh`** at the **`Tools > Terminal`** button._
 
-**[Video Tutorial](https://www.youtube.com/watch?v=6CSeovx0nvc)** (For people who usually do watching more than reading)
 
 ## Contributing
 
@@ -48,6 +47,5 @@ _If you have made any changes to the code, don't forget to restart the bot by ty
 2.  Authored, maintained by Bringo and Focus.
 3.  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
-> GitHub [bringo](https://github.com/zhycorp)
-> 
-> YouTube [bringo](https://youtube.com/c/Zhycorp)
+> GitHub [bringo](https://github.com/Yassinebringo/kane/tree/main)
+
